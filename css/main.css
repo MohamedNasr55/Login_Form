@@ -1,0 +1,31 @@
+/* first section */
+.container{
+    background-color: #09acdde2;
+    /* height:500px; */
+    margin: 100px auto;
+    font-family: 'Kenia';
+    color: #FFF;
+}
+
+.h-custom {
+height: calc(100% - 73px);
+}
+@media (max-width: 450px) {
+.h-custom {
+height: 100%;
+}
+}
+
+
+/* #submit {
+  display: none;
+  font-size: 0.8em;
+}
+
+#submit.visible {
+  display: block;
+}
+
+input.invalid {
+  border-color: red;
+} */
